@@ -1,0 +1,14 @@
+/*
+Theme Name:     Apr9Child
+Description:    child theme for assignment 3
+Author:         Michela Serravalle
+Template:       twentytwentythree
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+
+footer{
+	background: #fee9ec;
+	color: black;
+	
+}
